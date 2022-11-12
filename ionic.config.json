@@ -1,0 +1,7 @@
+{
+  "name": "true-state",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
